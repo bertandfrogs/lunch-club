@@ -5,6 +5,10 @@
         </div>
         <h2>“we make the funny we do the thing”</h2>
         <h4>“a buncha guys bein' pals”</h4>
+        <footer>
+            <span>Sarah Smalley, April 12, 2020</span>
+            <a href="https://github.com/bertandfrogs/lunch-club">GitHub</a>
+        </footer>
     </div>
 </template>
 

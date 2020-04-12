@@ -3,6 +3,10 @@
         <div class="overlay">
             <img src="../assets/lunchClubBeach.jpeg" draggable="false"/>
         </div>
+        <footer>
+            <span>Sarah Smalley, April 12, 2020</span>
+            <a href="https://github.com/bertandfrogs/lunch-club">GitHub</a>
+        </footer>
     </div>
 </template>
 

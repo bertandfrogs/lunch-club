@@ -19,6 +19,10 @@
                 </a>
             </div>
         </div>
+        <footer>
+            <span>Sarah Smalley, April 12, 2020</span>
+            <a href="https://github.com/bertandfrogs/lunch-club">GitHub</a>
+        </footer>
     </div>
 </template>
 
@@ -46,6 +50,7 @@ export default {
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding-bottom: 20px;
     }
     .pictures {
         width: 100%;

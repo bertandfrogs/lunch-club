@@ -62,6 +62,27 @@
     align-items: center;
   }
 
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    font-size: 12px;
+    width: 100%;
+    padding: 5px 0;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+
+  footer span{
+    margin-right: 20px;
+  }
+
+  footer a{
+    text-decoration: underline;
+    color: #fff;
+  }
+
   @media screen and (max-width: 700px) {
     .textNav {
       text-decoration: underline !important;
